@@ -22,3 +22,5 @@
   { name: 7, artist: 15, description: 272, url: 32, alt: 98 }, 
 	
   { name: 6, artist: 10, description: 78, url: 31, alt: 92 }  
+
+Note: Through personal counting, the name of the first element would either be 26, or 23 without white spaces. I'm unsure how it would be 24 as according to the example.
